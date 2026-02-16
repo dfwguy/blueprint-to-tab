@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+*.json
+*.pdf
+ollama_bad_json.txt
+fan_cols_detected.json
+fan_rows_reconstructed.json
